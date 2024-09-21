@@ -1,4 +1,4 @@
-<h1>Hello, I'm Grigory! <br/><a href="https://github.com/grigoryer"></a>, <a href="https://www.linkedin.com/in/grigoryermizin/">Cybersecurity Professional</a>, </h1>
+<h1>Hello, I'm Grigory! <br/><a href="https://github.com/grigoryer"></a> <a href="https://www.linkedin.com/in/grigoryermizin/">Cybersecurity Professional</a>, </h1>
 
 <h2>Cyber Security Projects:</h2>
 
