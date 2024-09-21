@@ -1,13 +1,16 @@
 <h1>Hello, I'm Grigory! <br/><a href="https://github.com/grigoryer"></a> <a href="https://www.linkedin.com/in/grigoryermizin/">Cybersecurity Professional</a>, </h1>
 
-<h2>Cyber Security Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - <b>[Active Directory Home Lab]</b>
   - [-----](https://github.com/)
 - <b>[Azure SIEM and Threat Intelligence Feed Lab]</b>
   - [-----](https://github.com/)
-  
-<h2> Connect with me! </h2>
+
+<h2>Certifications </h2>
+- Google Cybersecurity Professional Certification
+
+<h2>Connect with me! </h2>
 
 - https://linkedin.com/in/grigoryermizin
 
