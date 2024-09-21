@@ -3,9 +3,9 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>[Active Directory Home Lab]</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [-----](https://github.com/)
 - <b>[Azure SIEM and Threat Intelligence Feed Lab]</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [-----](https://github.com/)
   
 <h2> Connect with me! </h2>
 
