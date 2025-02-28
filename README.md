@@ -1,7 +1,7 @@
-<h1>Hello, I'm Grigory! <br/><a href="https://github.com/grigoryer"></a> <a href="https://www.linkedin.com/in/grigoryermizin/">Cybersecurity Professional</a>, </h1>
+<h2>Hello, I'm Grigory! <br/><a href="https://github.com/grigoryer"></a> <a href="https://www.linkedin.com/in/grigoryermizin/">Cybersecurity Professional</a>, </h1>
 
 <h2>Projects:</h2>
-  - ELK SIEM Lab environment
+  - </a> <a href="https://github.com/grigoryer/elk-lab"> Elasticsearch IDS Lab</a>
   
 <h2>Connect with me! </h2>
 
