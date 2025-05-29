@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
   - </a> <a href="https://github.com/grigoryer/elasticsearch-siem-lab"> Elasticsearch SIEM Lab</a>
-  - </a> <a href="https://github.com/grigoryer/tut_chessbot"> Bitmap Chess Engine </a>
+  - </a> <a href="https://github.com/grigoryer/tut_chessbot"> Bitboard Chess Engine </a>
   
 <h2>Connect with me! </h2>
 
