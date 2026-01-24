@@ -1,4 +1,4 @@
-## Hi, im Grisha
+### Hi, im Grisha!
 
 I am a software engineering student who builds whatever comes to mind
 
