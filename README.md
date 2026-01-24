@@ -1,10 +1,9 @@
-<h2>Hello, I'm Grigory! <br/><a href="https://github.com/grigoryer"></a> <a href="https://www.linkedin.com/in/grigoryermizin/">Cybersecurity Professional</a>, </h1>
+## Hi, im Grisha
 
-<h2>Projects:</h2>
-  - </a> <a href="https://github.com/grigoryer/elasticsearch-siem-lab"> Elasticsearch SIEM Lab</a>
-  - </a> <a href="https://github.com/grigoryer/the_door"> "The Door" Chess Engine </a>
-  
-<h2>Connect with me! </h2>
+I am a software engineering student who builds whatever comes to mind
 
-- https://linkedin.com/in/grigoryermizin
+Recently I have been working on a [chess engine](https://github.com/grigoryer/chess_engine) in addition to automation scripts for personal audio book creation
 
+My main tech stack is c++, python, and JS. Some tools I have enjoyed working with are aws and docker
+
+See if you can win against my [chess bot](https://lichess.org/@/GreenTeaTree) (good luck)
