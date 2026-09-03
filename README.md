@@ -1,9 +1,9 @@
 ### Hi, im Grisha!
 
-I am a software engineering student who builds whatever comes to mind
+I am a software engineering student with a passion for systems engineering, specifically high performance.
 
-Recently I have been working on a [chess engine](https://github.com/grigoryer/chess_engine) in addition to automation scripts for personal audio book creation
+Recently I have been working on a new [chess engine](https://github.com/grigoryer/red_bean) also I am making another version of without any search using only a Transformer.
 
-My main tech stack is c++, python, and JS. Some tools I have enjoyed working with are aws and docker
+My main tech stack is c++ and python, and host using AWS if needed.
 
-See if you can win against my [chess bot](https://lichess.org/@/GreenTeaTree) (good luck)
+See if you can win against my [chess bot](lichess.org/@/RedBeanTree) (good luck!)
